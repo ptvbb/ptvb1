@@ -1,0 +1,21 @@
+h1 {
+  /* Вказуємо шрифт Arial */
+  font-family: Arial, sans-serif;
+  
+  /* Вказуємо розмір 24 пікселі */
+  font-size: 24px;
+  
+  /* Застосовуємо напівжирний шрифт */
+  font-weight: bold;
+  
+  /* Закреслюємо текст */
+  text-decoration: line-through;
+  
+  /* Вирівнюємо текст по ширині блоку */
+  text-align: justify;
+  
+  /* Задаємо міжрядковий інтервал 10 пікселів */
+  line-height: 10px;
+  
+  }
+  
